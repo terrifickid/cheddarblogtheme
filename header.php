@@ -12,6 +12,12 @@
 	<link href="https://fonts.googleapis.com/css?family=Muli:400,700" rel="stylesheet">
    
    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+   
+   <!-- OneTrust Cookies Consent Notice -->
+   <script src="https://optanon.blob.core.windows.net/consent/6401fc2e-2783-41bd-8669-431a4f3ae1d1.js?v=2.2" type="text/javascript" charset="UTF-8"></script>
+   <script type="text/javascript">
+       function OptanonWrapper() { }
+   </script>
     
    <?php wp_head(); ?>
   </head>
